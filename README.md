@@ -1,2 +1,2 @@
-# Hangman-
+# Hangman
 Homework assignment #3
